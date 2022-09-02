@@ -1,0 +1,16 @@
+{
+    "Product":[
+        {
+            "id":1,
+            "name":"Madhuri"
+        },
+        {
+            "id":2,
+            "name":"Mahesh"
+        },
+        {
+            "id":3,
+            "name":"Komal"
+        }
+    ]
+}
